@@ -23,4 +23,4 @@ static unsigned int lines      = 0;
  */
 static const char worddelimiters[] = " ";
 
-static int vpadding = 7;
+static int vpadding = 3;
